@@ -24,7 +24,7 @@ const Footer = () => {
           Contáctame hoy y hablemos de cómo puedo ayudarte a alcanzar tus
           objetivos.
         </p>
-        <a href="brianhdez824@gmail.com">
+        <a href="#">
           <MagicButton
             title="Contáctame"
             icon={<FaLocationArrow />}
